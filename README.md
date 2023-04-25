@@ -3,7 +3,7 @@
 ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0usko&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0usko)
 
-- - -
+
 ## Language
                                         ###POO
                                         ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
