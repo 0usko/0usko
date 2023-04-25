@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0usko&theme=blue-green)
+
 <!--
 **0usko/0usko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
