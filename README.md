@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+<p align="center">
+<img src="https://media.tenor.com/IFHYcCzN-xMAAAAd/fwuffy-doggy.gif">
+</p>
+
 ## Stats
 ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0usko&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0usko)
